@@ -64,6 +64,7 @@
             android:maxWidth="200dp"
             android:onClick="allClearAction"
             android:padding="10dp"
+            android:textColor="@color/white"
             android:text="@string/clear"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
@@ -81,6 +82,7 @@
             android:onClick="backspaceAction"
             android:padding="10dp"
             android:text="@string/clearOne"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -113,6 +115,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/seven"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -129,6 +132,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/eight"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -144,6 +148,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/nine"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -176,6 +181,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/four"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -192,6 +198,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/five"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -207,6 +214,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/six"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -238,6 +246,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/one"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -254,6 +263,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/two"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -269,6 +279,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/three"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -305,6 +316,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/zero"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
@@ -320,6 +332,7 @@
             android:onClick="numberAction"
             android:padding="10dp"
             android:text="@string/decimal"
+            android:textColor="@color/white"
             android:textSize="40sp"
             app:cornerRadius="50dp" />
 
